@@ -1,0 +1,6 @@
+{
+  "name": "Daily Planner",
+  "description": "A dynamic daily scheduling, calendar, reminders, and goals tracking application powered by AI planning assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
